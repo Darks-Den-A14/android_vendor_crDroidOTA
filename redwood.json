@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "Priyanshu Jangid",
+			"maintainer": "Thereache",
 			"oem": "Poco",
 			"device": "Poco X5 Pro 5G",
-			"filename": "crDroidAndroid-14.0-20240911-redwood-v10.8.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/redwood/10.x/crDroidAndroid-14.0-20240911-redwood-v10.8.zip/download",
-			"timestamp": 1726046952,
-			"md5": "7a08db254d0094f9e5468e2b522eb204",
-			"sha256": "207398611c79ceeb1dff38c739520ba2482eee8f7d5d3167596d4c9dc2b851db",
-			"size": 1613131278,
+			"filename": "crDroidAndroid-14.0-20240927-redwood-v10.8.0.zip",
+			"download": "https://sourceforge.net/projects/thereache/files/crdroid/20240927/crDroidAndroid-14.0-20240927-redwood-v10.8.0.zip/download",
+			"timestamp": 1727414503,
+			"md5": "345128ef40a906396d98a4a00bbdd6fd",
+			"sha256": "4839db5570fa1cb035f549ff991174c8155660f5b81eec88f5d3dc4947642798",
+			"size": 1982858377,
 			"version": "10.8",
 			"buildtype": "Monthly",
-			"forum": "https://xdaforums.com/t/rom-14-0-redwood-crdroid-v10-5-official.4672931/",
-			"gapps": "https://nikgapps.com/",
+			"forum": "",
+			"gapps": "",
 			"firmware": "https://xiaomifirmwareupdater.com/archive/firmware/redwood/",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/redwood/10.x/recovery/",
-			"paypal": "https://paypal.me/thepriyanshujangid",
-			"telegram": "https://t.me/priyanshuschat",
-			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_redwood",
-			"common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm8350-common",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8350"
+			"recovery": "https://sourceforge.net/projects/thereache/files/crdroid/",
+			"paypal": "",
+			"telegram": "https://t.me/thereachebuildchat",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
